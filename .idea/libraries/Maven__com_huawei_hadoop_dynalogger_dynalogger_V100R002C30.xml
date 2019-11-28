@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.huawei.hadoop.dynalogger:dynalogger:V100R002C30">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/huawei/hadoop/dynalogger/dynalogger/V100R002C30/dynalogger-V100R002C30.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/huawei/hadoop/dynalogger/dynalogger/V100R002C30/dynalogger-V100R002C30-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/huawei/hadoop/dynalogger/dynalogger/V100R002C30/dynalogger-V100R002C30-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
