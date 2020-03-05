@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/real_data_R_D.iml" filepath="$PROJECT_DIR$/real_data_R_D.iml" />
+      <module fileurl="file://$PROJECT_DIR$/carbon-sdk-mrs.iml" filepath="$PROJECT_DIR$/carbon-sdk-mrs.iml" />
     </modules>
   </component>
 </project>

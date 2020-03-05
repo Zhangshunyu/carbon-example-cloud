@@ -6,11 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="real_data_R_D" />
+        <module name="carbon-sdk-mrs" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="real_data_R_D" target="1.8" />
+      <module name="carbon-sdk-mrs" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

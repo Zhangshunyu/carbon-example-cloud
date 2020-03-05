@@ -1,8 +1,6 @@
 package datalake;
 
 import java.io.*;
-import java.net.InetAddress;
-import java.net.URL;
 import java.net.UnknownHostException;
 import java.util.Iterator;
 import java.util.Properties;

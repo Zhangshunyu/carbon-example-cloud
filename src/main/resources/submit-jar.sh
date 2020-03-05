@@ -1,0 +1,3 @@
+#!/usr/bin/sh
+source /opt/client/bigdata_env
+spark-submit --master yarn --deploy-mode cluster  --driver-memory 1g --driver-cores 4 --executor-memory 3g --executor-cores 4  --num-executors 3 --files config.conf,spark-obs.conf --jars $SPARK_HOME/jars/streamingClient010/kafka-clients-1.1.0-mrs-2.0.jar,$SPARK_HOME/jars/streamingClient010/kafka_2.11-1.1.0-mrs-2.0.jar,$SPARK_HOME/jars/streamingClient010/spark-streaming-kafka-0-10_2.11-2.3.2-mrs-2.0.jar,/opt/share/scala-logging_2.11-3.7.2/scala-logging_2.11-3.7.2.jar, --class datalake.KafkaLoadCarbon carbon-sdk-mrs-1.0.jar hdfs://hacluster/carbon2.properties
